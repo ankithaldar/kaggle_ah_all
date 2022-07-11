@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# ------------------------------------------------------------------------------
+
+src/api_tokens/neptune_key
+
+# -- End of generated file, don't change anything below this line!
